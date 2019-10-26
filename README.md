@@ -8,4 +8,4 @@
 This is informative
 # Learn how to make a pull request
 
-## uptown punk
+## listing favorites is easy
