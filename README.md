@@ -10,4 +10,4 @@
 
 ### Open source softwares are amazing!
 
-> Start contibuting here
+> Start contibuting here.
