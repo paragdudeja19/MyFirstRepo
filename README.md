@@ -1,7 +1,7 @@
 # MyFirstRepo
 
 
-# This repo is just a demo
+# This repo is just a demo for git and github
 # Last one
 
 
