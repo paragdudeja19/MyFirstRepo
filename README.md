@@ -8,4 +8,4 @@
 ### Get started here
 
 
-### Open source softwares are amazing.
+### Open source softwares are amazing!
