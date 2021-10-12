@@ -11,3 +11,5 @@
 ### Open source softwares are amazing!
 
 > Start contibuting here.
+
+### This repo is open for beginners wanted to start contributing in open source.
