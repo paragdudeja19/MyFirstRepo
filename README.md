@@ -6,4 +6,4 @@
 > last pr
 
 
-this is the end of the pr
+this is the end of the pot
