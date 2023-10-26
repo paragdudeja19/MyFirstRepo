@@ -2,4 +2,4 @@
 
 ## Hacktoberfest 2022
 
-> last PR
+> first PR
