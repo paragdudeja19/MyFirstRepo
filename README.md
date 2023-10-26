@@ -1,7 +1,4 @@
 # MyFirstRepo
 
 
-hi there heeeloooo
-
-
-new user commit
+## hacktober 2023
