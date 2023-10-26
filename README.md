@@ -1,5 +1,3 @@
 # MyFirstRepo
 
-## Hacktoberfest 2022
-
-> fourth PR
+## Hacktoberfest 2023
